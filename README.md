@@ -12,11 +12,11 @@ Orginial PDF files are at:
 
 Cav Daily Article: 
 
-Cavalier Daily Staff.  "Faculty salaries disclosed."  The Cavalier Daily. 12 APR 2013.  Retrieved on 2019-03-28.  http://www.cavalierdaily.com/article/2013/04/faculty-salaries-disclosed  
+* Cavalier Daily Staff.  "Faculty salaries disclosed."  The Cavalier Daily. 12 APR 2013.  Retrieved on 2019-03-28.  http://www.cavalierdaily.com/article/2013/04/faculty-salaries-disclosed  
 
 Full issue: 
 
-Cavalier Daily.  April 12, 2013.  Retrieved on 2019-03-28. 
+* Cavalier Daily.  April 12, 2013.  Retrieved on 2019-03-28. 
 https://issuu.com/cavalierdaily/docs/cavalierdaily_041213 
 
 No Cav Daily database found. 
